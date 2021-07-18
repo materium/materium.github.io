@@ -2,14 +2,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="128.000000pt" height="128.000000pt" viewBox="0 0 128.000000 128.000000"
+ width="256.000000pt" height="256.000000pt" viewBox="0 0 256.000000 256.000000"
  preserveAspectRatio="xMidYMid meet">
 <style>
   g, path { fill: #37352f; }
   @media (prefers-color-scheme: dark) { g, path { fill: #ebebeb; }}
 </style>
 
-<g transform="translate(0.000000,128.000000) scale(0.100000,-0.100000)"
+<g transform="translate(0.000000,256.000000) scale(0.100000,-0.100000)"
 fill="currentColor" stroke="none">
 <path d="M530 1024 c-8 -4 -30 -13 -49 -20 -19 -8 -32 -17 -28 -20 3 -3 20 2
 38 11 74 39 169 14 240 -62 57 -60 79 -98 110 -186 34 -97 53 -125 101 -152
